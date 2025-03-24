@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
     fun insertar(view:View){
 
-        //Nixon Gutierrez 2019-1306 Dev
+        //Nixon Gutierrez 2019-1306
 
         var codigo=txtCodigo?.text.toString()
         var nombre=txtNombre?.text.toString()
